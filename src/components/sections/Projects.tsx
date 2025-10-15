@@ -22,7 +22,7 @@ export const Projects = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: "E-commerce Moderno",
+      title: "E-commerce Moderno exemplo",
       description: "Loja online completa com design minimalista e alta conversão",
       category: "web",
       tags: ["React", "TypeScript", "Tailwind"],
@@ -205,7 +205,7 @@ export const Projects = () => {
                     ))}
                   </div>
 
-                  <Button className="w-full group">
+                  <Button asChild className="w-full group">
                     Visualizar Projeto
                     <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                   </Button>
