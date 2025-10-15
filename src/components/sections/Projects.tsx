@@ -205,9 +205,15 @@ export const Projects = () => {
                     ))}
                   </div>
 
-                  <Button className="w-full group">
+                  <Button asChild className="w-full group">
+                    <a
+                      href={selectedProject.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                     Visualizar Projeto
                     <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                    </a>
                   </Button>
                 </div>
               </GlassCard>
