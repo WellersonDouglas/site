@@ -27,7 +27,7 @@ export const Projects = () => {
       category: "web",
       tags: ["React", "TypeScript", "Tailwind"],
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-      link: "https://tela-de-login-twitter.vercel.app",
+      link: "https://tela-de-login-twitter.vercel.app/",
       fullDescription: "Projeto completo de e-commerce com carrinho de compras, checkout integrado, painel administrativo e sistema de pagamento. Design focado em conversão com UX otimizada.",
     },
     {
