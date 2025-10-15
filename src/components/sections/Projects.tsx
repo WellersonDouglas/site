@@ -205,7 +205,7 @@ export const Projects = () => {
                     ))}
                   </div>
 
-                  <Button asChild className="w-full group">
+                  <Button className="w-full group">
                     Visualizar Projeto
                     <ExternalLink className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                   </Button>
