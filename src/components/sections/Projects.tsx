@@ -27,7 +27,7 @@ export const Projects = () => {
       category: "web",
       tags: ["React", "TypeScript", "Tailwind"],
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
-      link: "https://tela-de-login-twitter.vercel.app/",
+      link: "https://agenciafuzion.com.br/",
       fullDescription: "Projeto completo de e-commerce com carrinho de compras, checkout integrado, painel administrativo e sistema de pagamento. Design focado em conversão com UX otimizada.",
     },
     {
@@ -37,7 +37,7 @@ export const Projects = () => {
       category: "web",
       tags: ["React", "Charts", "API"],
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-      link: "#",
+      link: "https://agenciafuzion.com.br/",
       fullDescription: "Dashboard completo com gráficos interativos, métricas em tempo real e relatórios personalizáveis. Integração com múltiplas fontes de dados.",
     },
     {
